@@ -353,7 +353,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - Initial work - [YourGitHub](https://github.com/yourusername)
+- **Ahamed Musharraf** - Initial work - [YourGitHub](https://github.com/Musha02)
 
 ## 🙏 Acknowledgments
 
@@ -367,8 +367,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue on GitHub
-- Email: your.email@example.com
-- Documentation: [Wiki](https://github.com/yourusername/vegetable-supply-chain/wiki)
+- Email: musharraf.nazar02@gmail.com
+- Documentation: [Wiki](https://github.com/musha02/vegetable-supply-chain/)
 
 ---
 
