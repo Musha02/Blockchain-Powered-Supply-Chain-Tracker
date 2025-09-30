@@ -353,7 +353,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Ahamed Musharraf** - Initial work - [YourGitHub](https://github.com/Musha02)
+- **Ahamed Musharraf** - Initial work - (https://github.com/Musha02)
 
 ## 🙏 Acknowledgments
 
